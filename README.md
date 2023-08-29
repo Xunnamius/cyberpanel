@@ -9,5 +9,5 @@ periodically automatically rebased).
 
 See also:
 
-- [The original cyberpanel](https://cyberpanel.net)
-- [CyberPanel repo on GitHub](https://github.com/usmannasir/cyberpanel)
+- [The original CyberPanel](https://cyberpanel.net)
+- [CyberPanel repo on GitHub](https://github.com/usmannasir/cyberpanel) 
